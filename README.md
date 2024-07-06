@@ -16,6 +16,7 @@ Takes 4 params, hit enter after entering each param
 ```
 command xx: Draws the lines for each of the inside pipes
 Takes 3 params, hit enter after entering each param
+* Amount - the amount of pipes of the specific size (that's been given in the next param) - ONLY available in version 2.0
 * Size - size of the pipe in inches
 * IL - depth of the pipe inside the pit (starting from the top)
 * Azimut - angle of the pipe inside the pit
